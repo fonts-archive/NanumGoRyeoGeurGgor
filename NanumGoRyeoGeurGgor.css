@@ -1,0 +1,9 @@
+@font-face {
+  font-family: 'NanumGoRyeoGeurGgor';
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+  src: url('https://cdn.jsdelivr.net/gh/fonts-archive/NanumGoRyeoGeurGgor/NanumGoRyeoGeurGgor.woff2') format('woff2'),
+        url('https://cdn.jsdelivr.net/gh/fonts-archive/NanumGoRyeoGeurGgor/NanumGoRyeoGeurGgor.woff') format('woff'),
+        url('https://cdn.jsdelivr.net/gh/fonts-archive/NanumGoRyeoGeurGgor/NanumGoRyeoGeurGgor.ttf') format('truetype');
+}
